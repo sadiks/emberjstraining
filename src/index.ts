@@ -15,5 +15,6 @@ app.registerInitializer({
 });
 
 app.renderComponent('MyApp', containerElement, null);
+// app.renderComponent('MyGlimmer', containerElement, null);
 
 app.boot();
